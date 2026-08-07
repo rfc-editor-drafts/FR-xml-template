@@ -7,7 +7,7 @@ Please see the [License](LICENSE.md). The [IETF Note Well](note-well.md) applies
 GitHub features that will be used:
 * Issue tracking
 * Pull requests (PRs)
-* @mentions
+* @-mentions
 
 Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub notification settings are set such that you can participate promptly in discussions of issues and pull requests. For more information, please see [Configuring notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications).  
 
@@ -18,7 +18,7 @@ The edits made by the RPC appear in the RPC-edits branch.  Please work within th
 
 For the Issues, please either reply in the comments how the item should be resolved or submit a pull request against the RPC-edits branch with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RPC will close the issue when it has been addressed by either accepting a pull request or simply closing the issue if no changes are needed.
 
-Feel free to add new issues and pull requests for new edits and questions. Use @mention to identify the participant who should answer.
+Feel free to add new issues and pull requests for new edits and questions. Use @-mention to identify the participant who should answer.
 
 Note: For both comments and issues, please DO NOT use emojis to approve or disprove changes.
 
